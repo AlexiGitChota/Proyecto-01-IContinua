@@ -1,0 +1,11 @@
+#Omitir archivos temporales de visual studio
+*.suo
+*.user
+*.sln.docstates
+*.tmp
+*.log
+.vs
+
+#Omitir archivos de compilación
+bin
+obj
