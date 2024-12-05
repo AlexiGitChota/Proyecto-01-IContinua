@@ -40,7 +40,7 @@ class Program
         else
         {
             Console.WriteLine("Acceso denegado.");
-            Console.WriteLine("Intentalo nuevamente.");
+            Console.WriteLine("Intentalo de nuevo.");
         }
     }
 }
